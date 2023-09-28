@@ -1,0 +1,149 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HTML Selectors */
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div {
+    margin: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+header {
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    min-width: 120px;
+    text-align: right;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+nav ul li:first-child {
+    display: block;
+}
+
+nav ul li {
+    display: none;
+    list-style: none;
+    margin: 10px;
+}
+
+nav ul li a:hover {
+    background-color: #efefef;
+    color: black;
+}
+
+nav ul li:first-child a {
+    padding: 1px 10px;
+}
+
+nav ul li {
+    display: none;
+    list-style: none;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #efefef;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+    margin-bottom: 5px;
+    margin-top: 40px;
+
+}
+
+hr {
+    margin-top: 30px;
+}
+
+section {
+    text-align: center;
+}
+
+
+footer {
+    margin-top: 20px;
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Class Selectors */
+.active {
+    border-bottom: 1px solid yellow;
+}
+
+.open li {
+    display: block;
+}
+
+.block {
+    display: block;
+}
+
+/* ID Selectors */
+#functions {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+/* Media Queries */
+@media only screen and (min-width: 32.5em) {
+    nav ul {
+        flex-direction: row;
+    }
+
+    nav ul li:first-child {
+        display: none;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 0 10px;
+    }
+
+
+    #functions {
+        grid-template-columns: 1fr 1fr;
+    }
+}
