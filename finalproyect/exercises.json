@@ -1,0 +1,74 @@
+[
+  {
+    "exerciseName": "Squats",
+    "location": "Resis",
+    "imageUrl": "https://omoncada.github.io/image/Squats.png",
+    "description": "Stand up, bend your knees and hips to lower your body as if you were sitting in a chair, then stand up again."
+  },
+  {
+    "exerciseName": "Abdominals",
+    "location": "Resis",
+    "imageUrl": "https://omoncada.github.io/image/Abdominals.png",
+    "description": "Lie on your back, bend your knees, and place your hands behind your head, then lift your torso towards your knees and return to the starting position."
+  },
+  {
+    "exerciseName": "Abdominal Plank",
+    "location": "Resis",
+    "imageUrl": "https://omoncada.github.io/image/AbdominalPlank.png",
+    "description": "Support yourself on your forearms and toes, maintaining a straight line from head to heels and engaging the core muscles."
+  },
+  {
+    "exerciseName": "Chair Stands",
+    "location": "Streng",
+    "imageUrl": "https://omoncada.github.io/image/ChairStands.png",
+    "description": "Sit in a chair, then stand up without using your arms, repeat 8 to 15 times."
+  },
+  {
+    "exerciseName": "Arm Curls",
+    "location": "Streng",
+    "imageUrl": "https://omoncada.github.io/image/ArmCurls.png",
+    "description": "Using weights, bend your elbows to lift them toward your chest, repeating 8 to 15 times."
+  },
+  {
+    "exerciseName": "Knee Bends",
+    "location": "Streng",
+    "imageUrl": "https://omoncada.github.io/image/KneeBends.png",
+    "description": "Lift one leg backward, using a chair for support if needed, doing 8 to 15 repetitions."
+  },
+  {
+    "exerciseName": "Knee Raises",
+    "location": "Bala",
+    "imageUrl": "https://omoncada.github.io/image/KneeRaises.png",
+    "description": "Raise your knees toward your chest alternately while maintaining an upright posture, working the abdominal muscles and improving cardiovascular endurance."
+  },
+  {
+    "exerciseName": "Heel Raises",
+    "location": "Bala",
+    "imageUrl": "https://omoncada.github.io/image/HeelRaises.png",
+    "description": "Alternate raising your heels and toes while standing to strengthen the calf muscles and improve balance and ankle mobility."
+  },
+  {
+    "exerciseName": "Lateral Trunk Flexion with Leg Raise",
+    "location": "Bala",
+    "imageUrl": "https://omoncada.github.io/image/LateralTrunkFlexionwithLegRaise.png",
+    "description": "Involves leaning to one side while lifting the leg on the same side, strengthening the oblique abdominal muscles and improving trunk stability and upper leg strength."
+  },
+  {
+    "exerciseName": "Shoulder Rolls",
+    "location": "Flexi",
+    "imageUrl": "https://omoncada.github.io/image/ShoulderRolls.png",
+    "description": "Shoulder rolls involve circular movements forward or backward to relieve tension, improve flexibility, and reduce stiffness in the shoulders, neck, and upper back."
+  },
+  {
+    "exerciseName": "Wrist Figure Eight",
+    "location": "Flexi",
+    "imageUrl": "https://omoncada.github.io/image/WristFigureEight.png",
+    "description": "Involves tracing a figure eight in the air with your wrist, improving wrist mobility and strength, useful for injury prevention and activities requiring wrist strength and coordination."
+  },
+  {
+    "exerciseName": "90/90 Stretch",
+    "location": "Flexi",
+    "imageUrl": "https://omoncada.github.io/image/9090Stretch.png",
+    "description": "Involves sitting on the ground with legs bent at 90-degree angles, improving hip flexibility and pelvis mobility by alternating between the two 90-degree positions to stretch the hip muscles."
+  }
+]
